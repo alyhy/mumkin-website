@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-arabic {
+  font-family: 'Hanimation Arabic Regular', sans-serif;
+}
+.bg-primary { background-color: #cbcbca; }
+.text-accent { color: #355863; }
